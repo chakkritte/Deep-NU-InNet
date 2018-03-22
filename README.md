@@ -12,21 +12,19 @@ Please cite Deep NU-InNet in your publications if it helps your research:
 
 หากคุณนำ Deep NU-InNet ไปใช้ในงานวิจัย กรุณาอ้างอิง 
 
-    @INPROCEEDINGS{8075874, 
-      author={C. Termritthikun and S. Kanprachar}, 
-      booktitle={2017 International Electrical Engineering Congress (iEECON)}, 
-      title={Accuracy improvement of Thai food image recognition using deep convolutional neural networks}, 
-      year={2017}, 
-      volume={}, 
-      number={}, 
-      pages={1-4}, 
-      keywords={Algorithm design and analysis;Convergence;Image recognition;Machine learning;Neural networks;Testing;Training;BN-Inception;Thai food;convolutional neural networks;deep learning;food regcognition;smartphone}, 
-      doi={10.1109/IEECON.2017.8075874}, 
-      ISSN={}, 
-      month={March},}
+    @inproceedings{termritthikun2017accuracy,
+      title={Accuracy improvement of Thai food image recognition using deep convolutional neural networks},
+      author={Termritthikun, Chakkrit and Kanprachar, Surachet},
+      booktitle={Electrical Engineering Congress (iEECON), 2017 International},
+      pages={1--4},
+      year={2017},
+      organization={IEEE}
+    }
 
 ## Donate
 
 ![Bitcoin Address](https://raw.githubusercontent.com/chakkritte/NU-InNet/master/images/pic.png)
 
  (Bitcoin Address) : 3DermWyouJQ5MwoNvEtv2SgnvFRMTDBudv
+ 
+ (Ethereum Address) : 0x88B563F2A4b0C6F2Cd30a75911Fc5edA73b20Ad2
